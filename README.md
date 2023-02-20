@@ -1,2 +1,2 @@
-# argylefist.github.io
-Argyle Fist Webpage
+# argyleFist.github.io
+Website for Argyle Fist
